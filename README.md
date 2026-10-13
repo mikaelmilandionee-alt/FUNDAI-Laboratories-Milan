@@ -14,3 +14,4 @@
 - Lab 3: Game AI Using Minimax with Alpha-Beta Pruning
 - Lab 4: Logic and Knowledge Representation
 - Lab 5: Knowledge Representation & Reasoning
+- Lab 6: Naive Bayes Classifier from Scratch and with Scikit-learn
