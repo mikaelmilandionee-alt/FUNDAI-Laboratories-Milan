@@ -15,3 +15,5 @@
 - Lab 4: Logic and Knowledge Representation
 - Lab 5: Knowledge Representation & Reasoning
 - Lab 6: Naive Bayes Classifier from Scratch and with Scikit-learn
+- Lab 7: Supervised vs. Unsupervised Learning, Overfitting, and Cross-Validation
+- Lab 8: Supervised Learning Algorithms
